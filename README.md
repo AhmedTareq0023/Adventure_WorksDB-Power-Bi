@@ -1,4 +1,9 @@
 AdventureWorks-Sales-Dashboard 
+
+![Relational DB Model](https://github.com/user-attachments/assets/d346bc48-0c91-4880-87e1-ce5b2cf91343)
+
+![Capture](https://github.com/user-attachments/assets/b6888707-4d6e-451d-8419-650719ba44b0)
+
 ![Worksheet1](https://github.com/user-attachments/assets/850e59f9-9e99-49d0-bd31-d9c6c75b2143)
 
 ![Worksheet2](https://github.com/user-attachments/assets/1737b6a8-b583-43dc-b2f6-4957343e8500)
